@@ -9,4 +9,11 @@ const texto1 = "Fred"
 const texto2 = "fred";
 
 //console.log(primeiroNumero === segundoNumero);
-console.log(texto1 === texto2);
+//console.log(texto1 === texto2);
+
+
+let input = null;
+let input2;
+
+
+console.log(input === input2);
